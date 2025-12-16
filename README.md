@@ -1,5 +1,8 @@
 Global Sales Intelligence Hub (Power BI)
 
+Dashboard Snapshort 
+"C:\Users\sambh\OneDrive\Pictures\Global.png"
+
 
 An end-to-end Sales Analytics Dashboard built using Power BI, designed to deliver executive-level insights into sales performance, product trends, and customer & regional behavior.
 
